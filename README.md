@@ -1,2 +1,2 @@
 # Hello World
-练习githubaaa
+练习github
